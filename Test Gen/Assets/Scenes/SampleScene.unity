@@ -2883,7 +2883,7 @@ MonoBehaviour:
   _frontTireRB: {fileID: 1385991129}
   _backTireRB: {fileID: 1731179067}
   _carRB: {fileID: 1554026972}
-  _speed: 150
+  _speed: 1500
   _rotationSpeed: 300
 --- !u!1 &1731179064
 GameObject:
