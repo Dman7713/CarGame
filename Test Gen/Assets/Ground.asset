@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Ground
   m_EditorClassIdentifier: 
   m_Angles:
-  - m_Start: -68
-    m_End: 292
+  - m_Start: -293
+    m_End: 67
     m_Order: 0
     m_Sprites:
-    - {fileID: 21300000, guid: b2d2a9c0b32635e439f17e53c1bbb085, type: 3}
-  m_FillTexture: {fileID: 2800000, guid: 10bf3ad67345318429863399470dbd46, type: 3}
+    - {fileID: -18825884, guid: dbc4c8c756cc0dd4d8724aee149f582c, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: def86e9653af59e4ab6c95856156e9e8, type: 3}
   m_CornerSprites:
   - m_CornerType: 0
     m_Sprites:
